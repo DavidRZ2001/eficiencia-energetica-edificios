@@ -20,7 +20,6 @@ Los datos son simulados, no mediciones de edificios reales.
 - `[nombre-del-notebook].ipynb`: notebook con todo el análisis
 - `ENB2012_data.xlsx`: datos originales
 - `enb2012_limpio.csv`: datos después del ETL
-- `diccionario_datos.csv`: diccionario de datos
 
 ## Cómo ejecutarlo
 1. Abrir el notebook en Google Colab.
@@ -31,4 +30,4 @@ Los datos son simulados, no mediciones de edificios reales.
 Python, pandas, NumPy, matplotlib, seaborn, scikit-learn, Google Colab.
 
 ## Uso de inteligencia artificial
-[pega aquí la declaración que redactamos]
+Siguiendo la política de integridad académica del curso, declaramos que se usó un asistente de IA (Claude, de Anthropic) como apoyo para estructurar el código del pipeline ETL y del modelado, proponer validaciones y variables derivadas, depurar errores y redactar borradores de las secciones del informe. Los resultados se obtuvieron ejecutando el código en Google Colab con nuestros datos, y las decisiones del proyecto (como el enfoque, el número de hipótesis y la elección del modelo) fueron revisadas y ajustadas por el equipo.
