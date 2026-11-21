@@ -16,7 +16,7 @@ gestión para preseleccionar diseños eficientes.
 
 ## Datos
 Tsanas, A. y Xifara, A. (2012). Energy Efficiency [Dataset]. UCI Machine Learning
-Repository. DOI 10.24432/C51307. Licencia: [completar].
+Repository. DOI 10.24432/C51307. Licencia: CC BY 4.0 (Creative Commons Atribución 4.0 Internacional)].
 Los datos son simulados, no mediciones de edificios reales.
 
 ## Contenido
