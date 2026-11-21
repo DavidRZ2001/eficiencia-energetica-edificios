@@ -20,7 +20,7 @@ Repository. DOI 10.24432/C51307. Licencia: [completar].
 Los datos son simulados, no mediciones de edificios reales.
 
 ## Contenido
-- `[nombre-del-notebook].ipynb`: notebook con todo el análisis
+- `[Proyecto_Analisis].ipynb`: notebook con todo el análisis
 - `ENB2012_data.xlsx`: datos originales
 - `enb2012_limpio.csv`: datos después del ETL
 
