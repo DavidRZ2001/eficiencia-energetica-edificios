@@ -4,8 +4,8 @@ Proyecto de Data Analytics: eficiencia energética en edificios con datos abiert
 
 Proyecto del curso Data Analytics en Gestión Industrial.
 Integrantes: 
-Daniel Felipe Trujillo Lugo 
-David Santiago Rincón Zabaleta
+-Daniel Felipe Trujillo Lugo 
+-David Santiago Rincón Zabaleta
 
 
 ## Descripción
